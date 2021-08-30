@@ -24,8 +24,10 @@ script, you can also see similar knockd rules in the iptables ruleset
 but this one relies on ipsets, joining an exemple as well.
 
 PS:   No worries, no IPs / port inside this script are real.
+
 PPS:  The iptables script and the nftables.conf are made to reflect
       the same ruleset, to help you convert your own rules if need be.
+
 PPPS: For nftables, you'll need to kick multiroute.sh apart since the
       nftables.conf is loaded by the system at boot time, but cannot
       contain bash command. The knockd config is also different.
