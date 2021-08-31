@@ -1,4 +1,4 @@
-# Netfilter (nftables & iptables) firewall, including multi-routing system
+# Netfilter (nftables & iptables) firewall, with port knocking and multi-routing system
 
 Hi, this is the Iptables firewall script I've been using for years.
 I recently switched to nftables but feel like this content still can
