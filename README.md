@@ -1,4 +1,4 @@
-# nftables / iptables firewall including multi routing
+# Netfilter (nftables & iptables) firewall (Including multi routing)
 
 Hi, this is the Iptables firewall script I've been using for years.
 I recently switched to nftables but feel like this content still can
